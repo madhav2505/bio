@@ -1,0 +1,31 @@
+header {
+ text-align: center;
+ background-color: grey;
+}
+
+h1 {
+ color: red;
+}
+
+h2 {
+ color: deeppink;
+}
+
+h3 {
+ color: orange;
+}
+
+img {
+ box: 10px 10px 5px ;
+}
+
+section {
+ }
+
+p {
+ font-size: 15px;
+}
+
+ul {
+ border-style: solid;
+}
